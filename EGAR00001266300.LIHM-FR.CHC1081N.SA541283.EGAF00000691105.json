@@ -7,13 +7,13 @@
             "file_size": "7866672959"
         }
     ], 
-    "status": "failed", 
+    "status": "queued", 
     "submitter_specimen_id": "CHC1081N", 
     "submitter_donor_id": "CHC1081", 
-    "submitter_sample_id": "CHC1081N", 
+    "bundle_id": "EGAR00001266300", 
     "icgc_sample_id": "SA541283", 
     "submitter": "LIHM-FR", 
-    "bundle_id": "EGAR00001266300", 
+    "submitter_sample_id": "CHC1081N", 
     "library_strategy": "WXS", 
     "project_code": "LIHM-FR"
 }
