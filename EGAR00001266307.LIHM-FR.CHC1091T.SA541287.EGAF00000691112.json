@@ -1,0 +1,19 @@
+{
+    "files": [
+        {
+            "file_name": "/fire/A/ega/vol1/EGAR00001266307/CHC1091T.sorted.bam.gpg", 
+            "file_md5sum": "66526c904b9f8cff8585737809c2f85c", 
+            "ega_file_id": "EGAF00000691112", 
+            "file_size": "7350278198"
+        }
+    ], 
+    "status": "queued", 
+    "submitter_specimen_id": "CHC1091T", 
+    "submitter_donor_id": "CHC1085", 
+    "icgc_sample_id": "SA541287", 
+    "submitter_sample_id": "CHC1091T", 
+    "submitter": "LIHM-FR", 
+    "bundle_id": "EGAR00001266307", 
+    "library_strategy": "WXS", 
+    "project_code": "LIHM-FR"
+}

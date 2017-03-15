@@ -1,0 +1,19 @@
+{
+    "files": [
+        {
+            "file_name": "/fire/A/ega/vol1/EGAR00001266526/CHC2352T.sorted.bam.gpg", 
+            "file_md5sum": "a02292952ff0c7997f6f8a6ce83fa5d9", 
+            "ega_file_id": "EGAF00000691431", 
+            "file_size": "9229170499"
+        }
+    ], 
+    "status": "queued", 
+    "submitter_specimen_id": "CHC2352T", 
+    "submitter_donor_id": "CHC2351", 
+    "icgc_sample_id": "SA541293", 
+    "submitter_sample_id": "CHC2352T", 
+    "submitter": "LIHM-FR", 
+    "bundle_id": "EGAR00001266526", 
+    "library_strategy": "WXS", 
+    "project_code": "LIHM-FR"
+}
