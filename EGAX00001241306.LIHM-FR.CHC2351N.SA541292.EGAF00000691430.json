@@ -1,19 +1,21 @@
 {
     "files": [
         {
+            "icgc_filename": "EGAX00001241306..bam", 
             "file_name": "/fire/A/ega/vol1/EGAR00001266524/CHC2351N.sorted.bam.gpg", 
-            "file_md5sum": "f237ac16d6ea9ee3317b55b002637942", 
             "ega_file_id": "EGAF00000691430", 
+            "object_id": "083f2439-b8a5-5da5-acca-15701dac5dc7", 
+            "file_md5sum": "f237ac16d6ea9ee3317b55b002637942", 
             "file_size": "8253253582"
         }
     ], 
     "status": "downloaded", 
     "submitter_specimen_id": "CHC2351N", 
     "submitter_donor_id": "CHC2351", 
-    "submitter_sample_id": "CHC2351N", 
     "icgc_sample_id": "SA541292", 
+    "submitter_sample_id": "CHC2351N", 
     "submitter": "LIHM-FR", 
-    "bundle_id": "EGAR00001266524", 
+    "bundle_id": "EGAX00001241306", 
     "library_strategy": "WXS", 
     "project_code": "LIHM-FR"
 }
